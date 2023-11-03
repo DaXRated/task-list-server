@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "task":"salir a correr",
+        "status": false
+    },
+    { 
+        "id":2,
+        "task":"pasear al perro",
+        "status": true
+
+    },
+    {
+        "id":3,
+        "task": "coding" ,
+        "status": false
+       },
+    {
+        "id":4,
+        "task": "slip" ,
+        "status": false
+      }
+]
